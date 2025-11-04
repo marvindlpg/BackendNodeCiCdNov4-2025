@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
 
 app.get('/', (req,res) =>{ 
-    res.send('Ejemplo running JOSE MARIN Y ARIANA Nov 5-2025 10:30'); 
+    res.send('Ejemplo JOSE MARIN,ARIANA, KEREN Nov 5-2025 15:52'); 
 }); 
 
 
