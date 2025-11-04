@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
 
 app.get('/', (req,res) =>{ 
-    res.send('Ejemplo running Nov 4-2025 03:44 Keren Hapuc JOSEPH MARVIN  y ARIANA DE LA PEÑA DIAZ LOS AMO MUCHO'); 
+    res.send('Ejemplo running Nov 5-2025 10:05'); 
 }); 
 
 
